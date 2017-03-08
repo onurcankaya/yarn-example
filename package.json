@@ -1,0 +1,11 @@
+{
+  "name": "yarn-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/onurcankaya/yarn-example.git",
+  "author": "<onur.eren.cankaya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
